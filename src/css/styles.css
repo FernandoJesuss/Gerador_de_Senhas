@@ -68,6 +68,7 @@ input {
 
 .senha {
     position: relative;
+    filter: drop-shadow(2px 1px 10px #d40acd);
 }
 
 .senha::after {
