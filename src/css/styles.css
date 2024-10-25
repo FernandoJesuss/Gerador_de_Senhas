@@ -7,12 +7,24 @@
     font-family: "Roboto Mono", monospace;
 }
 
+.circle {
+position: relative;
+
+
+
+    
+}
+
 .meio-circulo {
     width: 180px;
     height: 130px;
     display: flex;
     position: relative;
-    top: 17.5%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    top: 55.1%;
     background-color: #300926;
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
@@ -94,20 +106,36 @@ button:hover {
     background-color: #218838;
 }
 
-/*Media screen 480*/
+/* Estilos gerais para .meio-circulo */
+.meio-circulo {
+    width: 180px;
+    height: 130px;
+    display: flex;
+    position: relative;
+    background-color: #300926;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+}
 
-@media screen and (max-width: 480px) {
-
+/* Media screen 430 */
+@media screen and (max-width: 430px) {
     .meio-circulo {
-        width: 180px;
-        height: 130px;
-        display: flex;
-        position: relative;
-        top: 18.8%;
-        background-color: #300926;
-        border-top-left-radius: 100px;
-        border-top-right-radius: 100px;
-        box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+        top: 0.8%;
     }
+}
 
+/* Media screen 480 */
+@media screen and (max-width: 480px) {
+    .meio-circulo {
+        top: 25.8%;
+    }
+}
+
+/* Media screen 600 */
+@media screen and (max-width: 600px) {
+    .meio-circulo {
+        /* top pode ser definido aqui se necessário */
+         top: 54.7%; 
+    }
 }
