@@ -4,7 +4,7 @@
 
 O **Gerador de Senhas** é uma ferramenta online que permite aos usuários criar senhas fortes e seguras de forma rápida e fácil. Este projeto foi desenvolvido para ajudar a manter a segurança das contas online, gerando senhas únicas e aleatórias.
 
-[**Acesse o Site**](https://fernandojesuss.github.io/ProjetoPortifolio/)
+[**Acesse o Site**](https://fernandojesuss.github.io/Gerador_de_Senhas/)
 
 ![Gerado de senhas](https://github.com/FernandoJesuss/Gerador_de_Senhas/blob/main/src/img/Cadeado.png)
 
@@ -24,6 +24,6 @@ O **Gerador de Senhas** é uma ferramenta online que permite aos usuários criar
 
 ## Como Usar
 
-1. **Acesse o aplicativo:** [**Acesse Site**](https://fernandojesuss.github.io/ProjetoPortifolio/)
+1. **Acesse o aplicativo:** [**Acesse Site**](https://fernandojesuss.github.io/Gerador_de_Senhas/)
 2. **Clique no botão "Gerar Senha":** Uma nova senha será gerada e exibida na caixa de texto.
 3. **Copie a senha gerada:** Utilize a senha gerada para suas contas online.
