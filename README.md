@@ -1,4 +1,4 @@
-# Gerador_de_Senhas
+<h1 align="center">Gerador de Senhas</h1>
 
 ## Introdução
 
