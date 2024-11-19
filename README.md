@@ -19,8 +19,6 @@ O **Gerador de Senhas** é uma ferramenta online que permite aos usuários criar
 ## Tecnologias Utilizadas
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Frameworks:** (inserir frameworks utilizados, se houver)
-- **Bibliotecas:** (inserir bibliotecas utilizadas, se houver)
 
 ## Como Usar
 
