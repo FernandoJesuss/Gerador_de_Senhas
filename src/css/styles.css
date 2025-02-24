@@ -179,12 +179,43 @@ button:active {
     }
 }
 
-@media (max-width: 393px) {
+@media (max-width: 400px) {
     .Container {
         /* display: flex; */
         right: 7.5rem;
         width: 40%;
         top: 32rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    body .Container h1 {
+        font-size: 0.9rem;
+        font-weight: 700;
+       
+    }
+
+    body img {
+        width: 100vw;
+        height: 100vh;
+        left: 1.5rem;
+    }
+    #password {
+        font-size: 0.5rem;
+        
+    }
+    .senha{
+        font-size: 25px;
+    }
+}
+
+
+@media (max-width: 393px) {
+    .Container {
+        /* display: flex; */
+        right: 7.9rem;
+        width: 40%;
+        top: 23rem;
         justify-content: center;
         align-items: center;
     }
