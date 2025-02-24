@@ -182,9 +182,9 @@ button:active {
 @media (max-width: 393px) {
     .Container {
         /* display: flex; */
-        right: 8rem;
+        right: 7.5rem;
         width: 40%;
-        top: 23rem;
+        top: 32rem;
         justify-content: center;
         align-items: center;
     }
