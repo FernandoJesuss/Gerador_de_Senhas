@@ -313,10 +313,11 @@ button:active {
         position: relative;
         top: -3rem;
         font-size: 11px;
-        width: 55vh;
+        width: 15vh;
         align-items: center;
         text-align: center;
         justify-content: center;
+        background-color: red;
     }
     
     .senha{
