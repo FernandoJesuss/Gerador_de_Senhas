@@ -6,7 +6,7 @@ O **Gerador de Senhas** é uma ferramenta online que permite aos usuários criar
 
 [**Acesse o Site**](https://fernandojesuss.github.io/Gerador_de_Senhas/)
 
-![Gerado de senhas](https://github.com/FernandoJesuss/Gerador_de_Senhas/blob/main/src/img/Cadeado.png)
+![Gerado de senhas](https://github.com/FernandoJesuss/Gerador_de_Senhas/blob/main/img/gerador%20de%20senhas.png)
 
 
 
