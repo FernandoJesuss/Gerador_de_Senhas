@@ -253,7 +253,7 @@ button:active {
     #cadeado {
         display: flex;
         width: 15vh;
-        top: 34rem;
+        top: 30rem;
         right: 7.5rem;
         justify-content: center;
         align-items: center;
@@ -282,11 +282,9 @@ button:active {
         display: flex;
         position: relative;
         top: -5rem;
-        font-size: 6px;
-        width: 11vh;
+        font-size: 8px;
+        width: 12vh;
         align-items: center;
         justify-content: center;
- 
-}
-
+    }
 }
