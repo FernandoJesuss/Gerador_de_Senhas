@@ -68,7 +68,7 @@ input {
 }
 
 .senha::after {
-    content: '🔒';
+    content: '';
     position: absolute;
     right: 10px;
     top: 50%;
@@ -96,24 +96,85 @@ button:active {
     background-color: #21883796;
 }
 
-/* Media screen 430 */
-@media screen and (max-width: 430px) {
-    .meio-circulo {
-        top: 0.8%;
+
+/* Media Queries para Responsividade */
+@media (max-width: 768px) {
+    .Container {
+        /* display: flex; */
+        right: 16.8rem;
+        width: 40%;
+        top: 31rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    body .Container h1 {
+        font-size: 1.3rem;
+        font-weight: 700;
+       
+    }
+
+    body img {
+        left: 2rem;
     }
 }
 
-/* Media screen 480 */
-@media screen and (max-width: 480px) {
-    .meio-circulo {
-        top: 25.8%;
+@media (max-width: 480px) {
+    .Container {
+        /* display: flex; */
+        right: 9rem;
+        width: 40%;
+        top: 31rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    body .Container h1 {
+        font-size: 1.1rem;
+        font-weight: 700;
+       
+    }
+
+    body img {
+        width: 100vw;
+        height: 100vh;
+        left: 2rem;
+    }
+    #password {
+        font-size: 0.7rem;
+        
+    }
+    .senha{
+        font-size: 25px;
     }
 }
 
-/* Media screen 600 */
-@media screen and (max-width: 600px) {
-    .meio-circulo {
-        /* top pode ser definido aqui se necessário */
-        top: 54.7%;
+@media (max-width: 430px) {
+    .Container {
+        /* display: flex; */
+        right: 8rem;
+        width: 40%;
+        top: 31rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    body .Container h1 {
+        font-size: 1rem;
+        font-weight: 700;
+       
+    }
+
+    body img {
+        width: 100vw;
+        height: 100vh;
+        left: 2rem;
+    }
+    #password {
+        font-size: 0.6rem;
+        
+    }
+    .senha{
+        font-size: 25px;
     }
 }
