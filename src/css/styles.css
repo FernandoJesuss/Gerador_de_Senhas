@@ -189,7 +189,7 @@ button:active {
     }
     button {
         display: flex;
-        right: 10%;
+        right: 8%;
         position: relative;
         top: -2rem;
         font-size: 14px;
@@ -260,7 +260,7 @@ button:active {
     #cadeado {
         display: flex;
         width: 20%;
-        top: 33rem;
+        top: 33.5rem;
         right: 7.5rem;
         justify-content: center;
         align-items: center;
