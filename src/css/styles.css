@@ -259,8 +259,8 @@ button:active {
         align-items: center;
     }
     body img {
-        left: 2rem;
-        width: 100%;
+        left: 1.5rem;
+        width: 82%;
         top: -2.1rem;
         justify-content: center;
         align-items: center;
@@ -276,14 +276,14 @@ button:active {
         position: relative;
         top: -3.5rem;
         font-size: 8px;
-        width: 20vh;
+        width: 15vh;
     }
     button {
         display: flex;
         position: relative;
         top: -5rem;
-        font-size: 11px;
-        width: 15vh;
+        font-size: 6px;
+        width: 11vh;
         align-items: center;
         justify-content: center;
  
