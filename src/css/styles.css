@@ -104,7 +104,7 @@ button:active {
         display: flex;
         width: 20%;
         top: 31rem;
-        left: 12rem;
+        left: 37%;
         justify-content: center;
         align-items: center;
     }
@@ -117,29 +117,32 @@ button:active {
         align-items: center;
     }
     body img {
-        left: 3.9rem;
-        width: 100%;
+        left: 1rem;
+        width: 90%;
         top: 0.1rem;
         justify-content: center;
         align-items: center;
     }
     .Container h1 {
-        font-size: 0.8rem;
+        right:  10%;
+        font-size: 9px;
         font-weight: 800;
     }
     #password {
         display: flex;
+        right: 45%;
         position: relative;
         top: -2rem;
-        font-size: 0.7rem;
-        width: 25%;
+        font-size: 0.6rem;
+        width: 180%;
     }
     button {
         display: flex;
+        right:  10%;
         position: relative;
         top: -2rem;
-        font-size: 15px;
-        width: 25%;
+        font-size: 13px;
+        width: 110%;
         align-items: center;
         justify-content: center;
         background-color: rgba(0, 255, 34, 0.374);
