@@ -141,7 +141,7 @@ button:active {
         width: 20vh;
         align-items: center;
         justify-content: center;
-        background-color: rgb(170, 0, 255);
+        background-color: rgba(0, 255, 34, 0.374);
     }
   
 }
@@ -242,10 +242,18 @@ button:active {
 }
 
 @media (max-width: 400px) {
+    .Container {
+        display: flex;
+        width: 15vh;
+        top: 31rem;
+        left: 9rem;
+        justify-content: center;
+        align-items: center;
+    }
     #cadeado {
         display: flex;
         width: 15vh;
-        top: 38rem;
+        top: 34rem;
         right: 7.5rem;
         justify-content: center;
         align-items: center;
