@@ -99,11 +99,11 @@ button:active {
 
 /* Media Queries para Responsividade */
 @media (max-width: 768px) {
-    .Container {
-        /* display: flex; */
-        right: 16.8rem;
-        width: 40%;
-        top: 31rem;
+    #cadeado .Container {
+        display: flex;
+        /* right: 16.8rem; */
+        width: 100%;
+        top: 25rem;
         justify-content: center;
         align-items: center;
     }
@@ -115,128 +115,212 @@ button:active {
     }
 
     body img {
-        left: 2rem;
+        left: 3.9rem;
+        /* right: 16.8rem; */
+        width: 100%;
+        top: 0.1rem;
+        justify-content: center;
+        align-items: center;
     }
 }
 
 @media (max-width: 480px) {
-    .Container {
-        /* display: flex; */
-        right: 9rem;
-        width: 40%;
+
+    
+    
+    #cadeado {
+        display: flex;
+        /* right: 16.8rem; */
+        width: 15vh;
         top: 31rem;
+        right: 8.8rem;
         justify-content: center;
         align-items: center;
-    }
-
-    body .Container h1 {
-        font-size: 1.1rem;
-        font-weight: 700;
-       
+        
     }
 
     body img {
-        width: 100vw;
-        height: 100vh;
-        left: 2rem;
+        left: 3.9rem;
+        /* right: 16.8rem; */
+        width: 100%;
+        top: 0.1rem;
+        justify-content: center;
+        align-items: center;
+    }
+    body .Container h1 {
+        font-size: 0.8rem;
+        font-weight: 700;
+       
     }
     #password {
+        display: flex;
+        position: relative;
+        top: -2rem;
         font-size: 0.7rem;
+        width: 20vh;
         
     }
+    button {
+        display: flex;
+        position: relative;
+        top: -2rem;
+        font-size: 15px;
+        width: 20vh;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+    
     .senha{
         font-size: 25px;
     }
 }
 
 @media (max-width: 430px) {
-    .Container {
-        /* display: flex; */
-        right: 8rem;
-        width: 40%;
+    #cadeado {
+        display: flex;
+        /* right: 16.8rem; */
+        width: 15vh;
         top: 31rem;
+        right: 8.8rem;
         justify-content: center;
         align-items: center;
-    }
-
-    body .Container h1 {
-        font-size: 1rem;
-        font-weight: 700;
-       
+        
     }
 
     body img {
-        width: 100vw;
-        height: 100vh;
         left: 2rem;
+        /* right: 16.8rem; */
+        width: 100%;
+        top: 0.1rem;
+        justify-content: center;
+        align-items: center;
+    }
+    body .Container h1 {
+        font-size: 0.8rem;
+        font-weight: 700;
+       
     }
     #password {
-        font-size: 0.6rem;
+        display: flex;
+        position: relative;
+        top: -2rem;
+        font-size: 8px;
+        width: 15vh;
         
     }
+    button {
+        display: flex;
+        position: relative;
+        top: -2rem;
+        font-size: 15px;
+        width: 15vh;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+    
     .senha{
-        font-size: 25px;
+        font-size: 15px;
     }
 }
 
 @media (max-width: 400px) {
-    .Container {
-        /* display: flex; */
+    #cadeado {
+        display: flex;
+        /* right: 16.8rem; */
+        width: 15vh;
+        top: 31rem;
         right: 7.5rem;
-        width: 40%;
-        top: 32rem;
         justify-content: center;
         align-items: center;
-    }
-
-    body .Container h1 {
-        font-size: 0.9rem;
-        font-weight: 700;
-       
+        
     }
 
     body img {
-        width: 100vw;
-        height: 100vh;
-        left: 1.5rem;
+        left: 2rem;
+        /* right: 16.8rem; */
+        width: 100%;
+        top: 0.1rem;
+        justify-content: center;
+        align-items: center;
+    }
+    body .Container h1 {
+        font-size: 0.8rem;
+        font-weight: 700;
+       
     }
     #password {
-        font-size: 0.5rem;
+        display: flex;
+        position: relative;
+        top: -2rem;
+        font-size: 8px;
+        width: 15vh;
         
     }
+    button {
+        display: flex;
+        position: relative;
+        top: -3rem;
+        font-size: 15px;
+        width: 15vh;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+    
     .senha{
-        font-size: 25px;
+        font-size: 15px;
     }
 }
 
 
 @media (max-width: 393px) {
-    .Container {
-        /* display: flex; */
-        right: 7.9rem;
-        width: 40%;
+    #cadeado {
+        display: flex;
+        /* right: 16.8rem; */
+        width: 15vh;
         top: 23rem;
+        right: 9rem;
         justify-content: center;
         align-items: center;
-    }
-
-    body .Container h1 {
-        font-size: 0.9rem;
-        font-weight: 700;
-       
+        
     }
 
     body img {
-        width: 100vw;
-        height: 100vh;
-        left: 1.5rem;
+        left: 2rem;
+        /* right: 16.8rem; */
+        width: 100%;
+        top: 0.1rem;
+        justify-content: center;
+        align-items: center;
+    }
+    body .Container h1 {
+        font-size: 0.6rem;
+        font-weight: 700;
+       
     }
     #password {
-        font-size: 0.5rem;
+        display: flex;
+        position: relative;
+        top: -2rem;
+        font-size: 7px;
+        width: 20vh;
         
     }
+    button {
+        display: flex;
+        position: relative;
+        top: -3rem;
+        font-size: 11px;
+        width: 15vh;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+    
     .senha{
-        font-size: 25px;
+        font-size: 15px;
     }
 }
 
