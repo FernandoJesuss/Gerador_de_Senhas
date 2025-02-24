@@ -145,7 +145,7 @@ button:active {
         width: 110%;
         align-items: center;
         justify-content: center;
-        
+        /* background-color: rgba(0, 255, 34, 0.374); */
     }
 }
 
@@ -154,7 +154,7 @@ button:active {
     .Container {
         display: flex;
         width: 25%;
-        /* top: 31rem; */
+        top: 31rem;
         left: 12rem;
         justify-content: center;
         align-items: center;
@@ -162,7 +162,7 @@ button:active {
     #cadeado {
         display: flex;
         width: 35%;
-        top: 54%;
+        top: 34rem;
         right: 8.8rem;
         justify-content: center;
         align-items: center;
@@ -260,7 +260,7 @@ button:active {
     #cadeado {
         display: flex;
         width: 20%;
-        top: 72%;
+        top: 33.5rem;
         right: 7.5rem;
         justify-content: center;
         align-items: center;
