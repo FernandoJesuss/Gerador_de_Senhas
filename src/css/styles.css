@@ -261,25 +261,27 @@ button:active {
     body img {
         left: 2rem;
         width: 100%;
-        top: -1.1rem;
+        top: -2.1rem;
         justify-content: center;
         align-items: center;
     }
     .Container h1 {
+        display: flex;
+        top: -3.5rem;
         font-size: 0.6rem;
         font-weight: 700;
     }
     #password {
         display: flex;
         position: relative;
-        top: -2rem;
+        top: -3.5rem;
         font-size: 8px;
         width: 20vh;
     }
     button {
         display: flex;
         position: relative;
-        top: -3rem;
+        top: -5rem;
         font-size: 11px;
         width: 15vh;
         align-items: center;
