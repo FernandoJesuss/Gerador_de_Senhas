@@ -4,7 +4,7 @@
 
 O **Gerador de Senhas** é uma ferramenta online que permite aos usuários criar senhas fortes e seguras de forma rápida e fácil. Este projeto foi desenvolvido para ajudar a manter a segurança das contas online, gerando senhas únicas e aleatórias.
 
-[**Acesse o Site**](https://fernandojesuss.github.io/Gerador_de_Senhas/)
+[**Acesse o Site**](https://pjt-gerador-senha.netlify.app/)
 
 ![Gerado de senhas](https://github.com/FernandoJesuss/Gerador_de_Senhas/blob/main/img/gerador%20de%20senhas.png)
 
